@@ -32,7 +32,7 @@ I am currently pursuing a **PG Diploma in High-Performance Computing (HPC)** fro
 ## 🏆 Achievements
 
 - **Top 10% in CDAC High-Performance Computing Course**
-- **Developed a scalable cluster setup for handling 100+ nodes in an HPC environment**
+- **Developed a scalable cluster setup for handling 20+ nodes in an HPC environment**
 - **Successfully deployed and managed real-time monitoring and alerting systems for HPC resources**
 
 ---
