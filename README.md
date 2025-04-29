@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am currently pursuing a **PG Diploma in High-Performance Computing (HPC)** from CDAC, where I've developed a strong foundation in various technologies including **Linux**, **Networking**, **Python**, **Hadoop**, **DevOps**, **Cybersecurity**, and **Data Center Management**. I'm passionate about building scalable systems, improving performance, and working with cutting-edge tools in the tech industry.
+I am completed a **PG Diploma in High-Performance Computing (HPC)** from CDAC, where I've developed a strong foundation in various technologies including **Linux**, **Networking**, **Python**, **Hadoop**, **DevOps**, **Cybersecurity**, and **Data Center Management**. I'm passionate about building scalable systems, improving performance, and working with cutting-edge tools in the tech industry.
 
 ### 🔧 Skills & Technologies
 
@@ -31,7 +31,7 @@ I am currently pursuing a **PG Diploma in High-Performance Computing (HPC)** fro
 
 ## 🏆 Achievements
 
-- **Top 10% in CDAC High-Performance Computing Course**
+- **Top 5% in CDAC High-Performance Computing Course**
 - **Developed a scalable cluster setup for handling 20+ nodes in an HPC environment**
 - **Successfully deployed and managed real-time monitoring and alerting systems for HPC resources**
 
